@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+Welcome to your my dbt project!
 
 How many rows are there? 232725
 
